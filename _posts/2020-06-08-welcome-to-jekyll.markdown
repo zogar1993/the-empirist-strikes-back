@@ -15,4 +15,4 @@ Notese que remarqué la palabra *criterio* al explicar cada uno de los puntos an
 
 El conocimiento sin criterio no es mas que un dogma.
 
-Quiero enseñarte a tener criterio. Quiero mostrarte lo que el conocimiento por si solo no puede. Mi proposito es exponer mi criterio, no para que lo copies, sino para que ayude a formar al tuyo. No me malentiendas, la experiencia vas a tener que hacerla por tu cuenta de todas formas, despeus de todo, si tomaras mi criterio como cierto sin experimentarlo, ganarias criterio real, simplemente aplicarias mis reglas de forma dogmatica como cualquier programador mediocre.
+Quiero enseñarte a tener criterio. Quiero mostrarte lo que el conocimiento por si solo no puede. Mi proposito es exponer mi criterio, no para que lo copies, sino para que ayude a formar al tuyo. No me malentiendas, la experiencia vas a tener que hacerla por tu cuenta de todas formas, despeus de todo, si tomaras mi criterio como cierto sin experimentarlo, no ganarias criterio real, simplemente aplicarias mis reglas de forma dogmatica como cualquier programador mediocre.

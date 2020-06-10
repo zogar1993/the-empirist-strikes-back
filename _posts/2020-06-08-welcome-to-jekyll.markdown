@@ -1,29 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-06-08 23:54:35 -0300
-categories: jekyll update
+title:  "Sos un programador mediocre y sin criterio"
+categories: programming
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+TL;DR: El conocimiento es importante para ser un programador descente, pero tener criterio es tanto o mas importante. Mi objetivo en este post y los sucesivos es no solo explicar la teoria detras de los conceptos expuestos, sino tambien explicar detalladamente el criterio utilizado al aplicarlos, aprender a identificar como y cuando usarlo, y mas importante, como y cuando no.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+El contenido relativo a la programación suele encontrarse de dos maneras en internet.
+Por un lado, el articulo tecnico, rebosante de teoria, explicando paso a paso como implementar un patron de diseño o usar una determinada tecnologia, articulos tan abstractos que jamas se rebajarían a la banalidad de ejemplificar casos cercanos a lo que uno pueda encontrarse en la un ambito realista. Por otro lado, tenemos infinidad de individuos de diversas edades y experiencias ametrallando la web con contenido de diversa calidad. Contenido que mas que enseñar genuinamente, parecen solo intentar promocionarse, contenido hecho no para quien lo lee, sino para ellos mismos. Estos son faciles de identificar, suelen tener una foto sonriente al lado del post, un lenguaje muy cuidado, y una gran extension de caracteres e imagenes que parecen tardarse eternamente en llegar al punto que estan intentando hacer. Otra caracteristica que tienen es que suelen comenzar con "Hola, mi nombre es Individuo X, y llevo Y años en la industria desarrollando `LISTA IRRELEVANTE DE SOFTWARE` en `LISTA IRRELEVANTE DE EMPRESAS`". Si sos de esas personas que dice "Esta persona lleva 15 años desarrollando en Java, seguro sabe mucho de lo que habla, por lo que voy a incorporar todo lo que diga sobre el lenguaje como cierto", te pido por favor que releas el titulo. Alguien que tiene que mencionar su recorrido para que su punto sea tomado en serio pierde nuestro tiempo. Ya que estamos pedile a esa persona si la tenes cerca que tambien se acerque a leer el titulo. Alguien que remarca orgullo de haber pasado tanto tiempo en una carrera o tecnologia huele a estancamiento mas que seguro.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+El parrafo anterior quiere llegar a un punto, lo juro. No son (al menos no unicamente) meros delirios. Ambos casos anteriores tienen un problema similar, solo que se hace visible de distintas maneras. En el primer caso, el conocimiento es meramente teorico. El problema se suele explicar muy por arriba, y la solucion ejemplificada con un caso utopico, ideal para dicha solucion. Depende del *criterio* del programador entender cuando usarlo, y lo que es aun mas importante, cuando no. Mas de una vez he visto soluciones "ingeniosas" en las que la solución fue forzada a entrar en el problema, dejando detras una sobre ingenieria imposible de mantener (confieso que he pecado de ello mas veces de las que caben en un Int). En el otro caso, queda a *criterio* de uno entender que conocimiento es acertado y cual no. Queda en el lector atravezar toda la maraña publicitaria y entender las partes que son utiles. Algunos siquiera parecen tener contenido mas alla de publicitarse a ellos mismos, a la empresa para la que trabajan, o a la tecnologia o a framework que utilizan. Notese que pocas son las veces que este contenido habla de metodologias o arquitecturas. He encontrado escaso material decente al respecto, y mucho menos en español.
 
-Jekyll also offers powerful support for code snippets:
+Notese que remarqué la palabra *criterio* al explicar cada uno de los puntos anteriores. Esto es porque considero que precisamente eso es lo que mas falta en la industria, y es precisamente lo que hace que los dos tipos de articulos anteriormente mensionados sean particularmente peligrosos. El criterio es lo que nos permite diferenciar que es util y que no, cuando algo es productivo o cuando va a alentizarnos en el largo plazo, es lo que permite que que no te comas esa pizza que lleva 3 semanas en la heladera por mas que ahora tengas mucha hambre, evaluar lo conveniente, lo redituable, cuando es que la ganancia supera a la perdida. El criterio no es (al menos no unicamente) algo innato. Una persona no nace con criterio. Lo desarrolla, como el resto de sus habilidades. Desarrollarlo suele significar aprender y ponerlo en practica. El conocimiento solo no alcanza. Es importante que la experiencia cubra los huecos que el conocimiento supo cubrir, para aprender a identificar problemas que los libros siquiera nos dijeron que podriamos tener, para ganar la agilidad y confianza que nos permita imporvisar sobre la marcha.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+El conocimiento sin criterio no es mas que un dogma.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Quiero enseñarte a tener criterio. Quiero mostrarte lo que el conocimiento por si solo no puede. Mi proposito es exponer mi criterio, no para que lo copies, sino para que ayude a formar al tuyo. No me malentiendas, la experiencia vas a tener que hacerla por tu cuenta de todas formas, despeus de todo, si tomaras mi criterio como cierto sin experimentarlo, ganarias criterio real, simplemente aplicarias mis reglas de forma dogmatica como cualquier programador mediocre.

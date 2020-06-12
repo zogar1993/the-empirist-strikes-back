@@ -23,17 +23,17 @@ Mi propósito es exponer mi criterio, no para que lo copies, sino para que ayude
 A menos de momento, tengo pensado atacar los siguientes temas, todos relacionados con ser un mejor programador (o programadora) sin importarme lenguaje o tecnología:
 
 Refactor: Para que la codebase que estas tocando deje de ser la enorme bola de bosta que muy probablemente sea hoy en día, es necesario trabajo periodico y activo. Diria que el codigo es como una planta, que si no la regas se muere, pero una analogia mas correcta sería que el codigo es como una planta mutante, que si no la regas se sale de la mazeta, sde come a tu perro, causa terror por las calles y hace que los tiempos de delivery sean imposibles de estimar. El itinerario de refactor es el siguiente:
-- Tu codigo es horrible: Los cuatro refactor basicos
-- No violes los niveles de abstraccion (Refactor "para arriba")
-- No sabes utilizar bien un Value Object (Refactor "para abajo")
-- Deja de hacer codigo poco cohesivo (Refactor "para afuera")
-- Deja de cometer Feature Envy (Refactor "para adentro")
+- Como limpiar la bola de mugre que hiciste (Introducción al refactor)
+- Dejá de ignorar los niveles de abstraccion (Refactor "para arriba")
+- Me cansé de ver tu codigo duplicado (Refactor "para abajo")
+- Tu codigo es poco cohesivo (Refactor "para afuera")
+- Malentendiste lo que es el desaoplamiento (Refactor "para adentro")
 
 TDD: Me costó mucho aprender a hacer buenos tests. Cada vez que aprendia algo, daba dos pasos para adelante y uno para atras. Gran parte de esto se debe a que gran parte del material es contradictorio entre si, no se pone de acuerdo en terminologias, o no es suficientemente explicito con algunas cuestiones. El itinerario para que te ahorres muchas horas de busquedas en Google tratando de entender porque tus tests parecen llevar mucho tiempo sin dar suficiente ganancia es el siguiente:
 - Una introduccion a TDD que incluso vos podes entender
 - Como testear irrelevancias (Chicago TDD)
 - Como hacer imposible el refactor mediante tests (London TDD)
-- Basta de testear detalles de implementacion
+- Deja de gastar tiempo testeando detalles de implementacion
 
 Arquitectura: Aunque no lo paresca, esto es muchisimo mas subjetivo que los casos anteriores (que de por si son subjetivos). El problema con explicar las arquitecturas es que requieren mucho conocimiento contextual para poder ganar criterio sobre ellas (quien piense lo contrario será fusilado en una plaza publica por el pecado de su ignoracia). Haré mi mejor esfuerzo por que aprendas a ganar el criterio necesario para saber porque un arquitectura puede ayudarte, pero requerirá que investigues y experimentes mas de lo normal. Es lo mejor que puedo ofrecer. El itinerario es el siguiente:
 - EMS: la arquitectura que no sabias que no necesitabas
@@ -41,6 +41,6 @@ Arquitectura: Aunque no lo paresca, esto es muchisimo mas subjetivo que los caso
 - Microservicios: decis saber lo que son, yo se que no tenes idea
 - Casos de Uso: seguro los estas haciendo mal
 
-Eso es bastante mas de lo que parece, y hay bastante mas de lo que podria escribir... pero ese es un buen comienzo, al menos por ahora.
+Puede que en el futuro expanda la lista, pero hay que arrancar por algún lado.
 
-Para darle cierre, quiero dejar algo claro, y eso lo siguiente: Entiendo que hay gente a quien mi forma de escribir le puede resultar repelente, y lo entiendo. De todas formas, mi respuesta es que "es su problema". Yo escribo para quienes puedan separar el contenido de la forma, para quienes quieran aprender mas y no les importe el como, para los verdaderamente autenticos, quienes no necesitan de etiqueta, y saben apreciar las cosas dichas directamente y sin vueltas. Para el resto, solo puedo desearles buena suerte. Como punto extra, ser agradable y carismatico genera dinamicas donde importa "quien" lo dice, y no "que" dice. Yo en cambio puedo estar seguro de que mis lectores permaneces a pesar mio, y no por mi.
+Por ultimo, una aclaración muy importante. Cuando leas cualquier cosa que escribo, es de suma importancia que no quedes con lo que leiste. Anda y ponelo en practica. Y si mi metodo no te da resultado (lo cual dudo enormemente), no te quedes con eso. Fijate porque no te sirve, busca una alternativa. Y cuando la encuentres, me escribis diciendome que soy un tarado, y me mostras porque tu forma es mejor. No intentes ser agradable conmigo, de la misma manera que yo tampoco lo hago. Decime en que me equivoco, se directo y criterioso, y siendo ambos individuos razonables podremos aprender el uno del otro sin que la verborragia de la cordialidad opaque los argumentos. He notado que cuando alguien es agradable y carismatico, se generan esas dinamicas donde algo es importante por "quien" lo dice, y no por lo "que" dice. Yo en cambio quiero asegurarme de que quienes lean mis articulos no lo hagan gracias a mi, sino a pesar mio.
